@@ -40,3 +40,5 @@ Components to be created:
 2. tour page: localhost:3000/tour
 3. tour-details page: localhost:3000/tour/tour-details
 4. localhost:3000/tour/tour-details/tour-id(1)
+
+<puja sharma>

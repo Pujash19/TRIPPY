@@ -55,7 +55,8 @@ const HotelSlider = ({ hotel }: props) => {
         </p>
       </div>
       <p className="mt-3 text-gray-700 font-medium">
-        Starting from <span className="text-blue-600 font-bold">US${hotel.price}</span>
+        Starting from{" "}
+        <span className="text-blue-600 font-bold">US${hotel.price}</span>
       </p>
     </div>
   );
