@@ -25,7 +25,7 @@ initAOS();
 },[])
 
   return (
-    <div className='overflow-hidden relative h-[10000px]'>
+    <div className='overflow-hidden relative '>
       <Body/>
       <Destination/>
       <Hotel/>
