@@ -41,4 +41,4 @@ Components to be created:
 3. tour-details page: localhost:3000/tour/tour-details
 4. localhost:3000/tour/tour-details/tour-id(1)
 
-
+update
