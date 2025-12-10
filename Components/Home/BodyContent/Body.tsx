@@ -10,7 +10,7 @@ const Body = () => {
         className="absolute top-0 left-0 w-full h-full bg-gray-800
          opacity-70"></div>
       <video
-        src="/Images/hero1.mp4"
+        src="/images/hero1.mp4"
         autoPlay
         muted
         loop

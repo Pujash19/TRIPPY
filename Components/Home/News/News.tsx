@@ -11,25 +11,25 @@ const News = () => {
         gap-10 items-center mt-20'>
             <div data-aos="fade-left"
               data-aos-anchor-placement="top-center">
-                <NewsCard image="/Images/n1.jpg" title="Top 10 places to visit in London"
+                <NewsCard image="/images/n1.jpg" title="Top 10 places to visit in London"
                 date= "15 November 2025"
                 />
             </div>
         <div data-aos="fade-left"
               data-aos-anchor-placement="top-center" data-aos-delay="100">
-                <NewsCard image="/Images/n2.jpg" title="Top 10 places to visit in Australia"
+                <NewsCard image="/images/n2.jpg" title="Top 10 places to visit in Australia"
                 date= "22 November 2025"
                 />
             </div>
             <div data-aos="fade-left"
               data-aos-anchor-placement="top-center" data-aos-delay="200">
-                <NewsCard image="/Images/n3.jpg" title="Top 10 places to visit in Finland"
+                <NewsCard image="/images/n3.jpg" title="Top 10 places to visit in Finland"
                 date= "10 November 2025"
                 />
             </div>
             <div data-aos="fade-left"
               data-aos-anchor-placement="top-center" data-aos-delay="300">
-                <NewsCard image="/Images/n4.jpg" title="Top 10 places to visit in India"
+                <NewsCard image="/images/n4.jpg" title="Top 10 places to visit in India"
                 date= "19 November 2025"
                 />
             </div>
